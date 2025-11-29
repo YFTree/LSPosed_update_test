@@ -1,0 +1,6 @@
+id=LSPosed_update_test
+name=LSPosed更新测试
+version=v1.9.2-it (7448)
+versionCode=7448
+author=YFTree
+updateJson=https://raw.githubusercontent.com/YFTree/LSPosed_update_test/refs/heads/main/update.json
