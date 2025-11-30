@@ -4,3 +4,4 @@ version=v1.9.2-it (7449)
 versionCode=7449
 author=YFTree
 updateJson=https://raw.githubusercontent.com/YFTree/LSPosed_update_test/refs/heads/main/update.json
+description=Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Zygisk enabled.
